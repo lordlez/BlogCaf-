@@ -82,6 +82,7 @@ img{
 .header__texto {
     text-align: center;
     color: var(--blanco);
+    margin-top: 15rem;
 }
 
 @media (min-width: 768px){
@@ -89,6 +90,7 @@ img{
         display: flex;
         justify-content: space-between;
         align-items: center;
+        padding-top: 5rem;
     }
 }
 
@@ -186,4 +188,10 @@ img{
 .widget-curso__info{
     font-weight: 400;
     font-size: 2rem;
+}
+
+.footer{
+    background-color: var(--negro);
+    padding-bottom: 3rem;
+    margin-top: 4rem;
 }
