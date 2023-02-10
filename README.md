@@ -1,5 +1,5 @@
 # :coffee:				Blog de Café
-Link directo al proyecto: [link](https://lordlez.github.io/blogcafe/)
+Link directo al proyecto: [link](https://lordlez.github.io/BlogCafe/)
 
 
 # 📝 Objetivo del proyecto
